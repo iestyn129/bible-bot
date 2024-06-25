@@ -1,2 +1,2 @@
-Requests==2.31.0
+Requests~>2.31.0
 discord~=2.3.2
